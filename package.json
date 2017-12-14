@@ -1,0 +1,17 @@
+{
+  "name": "adventofcode",
+  "version": "0.1.0",
+  "license": "MIT",
+  "description": "Advent of code 2017",
+  "scripts": {
+    "nodewatch": "nodemon app.js",
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "restify": "^4.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}

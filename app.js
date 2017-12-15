@@ -12,4 +12,6 @@ server.get("/", (req, res) => {
     res.send("advent of code");
 });
 
+require('./template')(server);
 require('./1')(server);
+require('./2')(server);

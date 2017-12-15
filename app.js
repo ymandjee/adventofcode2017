@@ -15,3 +15,4 @@ server.get("/", (req, res) => {
 require('./template')(server);
 require('./1')(server);
 require('./2')(server);
+require('./3')(server);

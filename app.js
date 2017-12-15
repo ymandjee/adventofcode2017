@@ -18,3 +18,4 @@ require('./2')(server);
 require('./3')(server);
 require('./4')(server);
 require('./5')(server);
+require('./6')(server);

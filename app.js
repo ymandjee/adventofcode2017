@@ -24,3 +24,4 @@ require('./8')(server);
 require('./9')(server);
 require('./10')(server);
 require('./11')(server);
+require('./12')(server);
